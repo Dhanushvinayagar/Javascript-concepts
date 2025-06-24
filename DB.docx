@@ -1,0 +1,15 @@
+DB - Postgresql
+
+Query - Use ORM or raw query with paramaterized format
+
+More on DB - 
+ORM - Sequlize 
+Table relation
+
+
+Normalization
+DB indexing
+Partitioning
+Sharding
+
+Preventing SQL injection
